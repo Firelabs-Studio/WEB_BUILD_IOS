@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WEB_BUILD_IOS.data.unityweb",
+"asmCodeUrl": "WEB_BUILD_IOS.asm.code.unityweb",
+"asmMemoryUrl": "WEB_BUILD_IOS.asm.memory.unityweb",
+"asmFrameworkUrl": "WEB_BUILD_IOS.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
